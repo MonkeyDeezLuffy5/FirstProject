@@ -15,7 +15,7 @@ public class main {
         Scanner reader = new Scanner(System.in);
         
         // this is our name array
-        String[][] names = { {"Dad", "Jeff"},
+        String[][] names = { {"Dad", "Jef"},
                                {"Maddy", "ButtFace", "Belle", "Ada"},
                                {"Goku", "Buu"}};
         
